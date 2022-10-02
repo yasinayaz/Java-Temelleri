@@ -20,7 +20,7 @@ public class ArkadasSayi {
         }
 
         if(sayi1==toplam2 && sayi2==toplam1){
-            System.out.println("Bu iki sayi arkadaştır");
+            System.out.println("Bu iki sayi arkadaştır ");
         }else
             System.out.println("Bu iki sayı arkadaş değildir");
 
